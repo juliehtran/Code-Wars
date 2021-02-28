@@ -6,3 +6,8 @@
 function removeChar(str){
     return str.slice(1, str.length - 1);
 };
+
+// Test Passed: Value == 'loquen'
+// Test Passed: Value == 'ountr'
+// Test Passed: Value == 'erso'
+// Test Passed: Value == 'lac'
