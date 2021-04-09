@@ -14,7 +14,6 @@ function bald(string){
   else if( counter === 2) return [replacedString,"Homer!"]
   else if (counter >= 3 && counter < 5) return [replacedString,"Careless!"]
   else if(counter > 5) return [replacedString,"Hobo!"]
-
 }
 
 
