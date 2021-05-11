@@ -25,3 +25,13 @@ let firstDigit = (n * n) - (n - 1);
   }
   return result
 }
+
+// _______________________ other answers_________________
+
+function rowSumOddNumbers(n) {
+    return Math.pow(n, 3);
+  }
+
+  function rowSumOddNumbers(n) {
+    return n*n*n
+  }
